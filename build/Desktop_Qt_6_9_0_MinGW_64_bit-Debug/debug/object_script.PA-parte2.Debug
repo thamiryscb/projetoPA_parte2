@@ -3,7 +3,6 @@ debug/CutEllipsoid.o
 debug/CutSphere.o
 debug/CutVoxel.o
 debug/FiguraGeometrica.o
-debug/Interpretador.o
 debug/PutBox.o
 debug/PutEllipsoid.o
 debug/PutSphere.o

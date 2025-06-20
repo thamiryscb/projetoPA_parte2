@@ -12,7 +12,6 @@ SOURCES += \
         CutSphere.cpp \
         CutVoxel.cpp \
         FiguraGeometrica.cpp \
-        Interpretador.cpp \
         PutBox.cpp \
         PutEllipsoid.cpp \
         PutSphere.cpp \
@@ -31,7 +30,6 @@ HEADERS += \
     CutSphere.h \
     CutVoxel.h \
     FiguraGeometrica.h \
-    Interpretador.h \
     PutBox.h \
     PutEllipsoid.h \
     PutSphere.h \

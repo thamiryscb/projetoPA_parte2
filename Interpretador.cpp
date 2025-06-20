@@ -19,7 +19,6 @@ vector<FiguraGeometrica*> Interpretador::parse(string Arquivo) {
     string linha, comando;
 
     arquivo.open(Arquivo.c_str());
-
     if (!arquivo.is_open()) {
         cout << "Não foi possível abrir " << Arquivo << endl;
         return figuras;
