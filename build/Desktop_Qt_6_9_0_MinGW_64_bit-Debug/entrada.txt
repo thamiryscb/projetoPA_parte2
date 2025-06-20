@@ -1,0 +1,30 @@
+dim 30 30 30
+
+# Cor vermelha opaca
+color 1 0 0 1
+putbox 5 10 5 10 5 10
+
+# Cor verde semitransparente
+color 0 1 0 0.5
+putsphere 15 15 15 5
+
+# Cor azul
+color 0 0 1 1
+putellipsoid 20 20 20 3 5 2
+
+# Apaga parte da esfera
+cutsphere 15 15 15 3
+
+# Apaga um bloco da caixa
+cutbox 7 9 7 9 5 10
+
+# Cor amarela
+color 1 1 0 1
+putvoxel 0 0 0
+
+# Cor roxa
+color 1 0 1 1
+putvoxel 29 29 29
+
+# Apaga um voxel no meio da elipsoide
+cutvoxel 20 20 20

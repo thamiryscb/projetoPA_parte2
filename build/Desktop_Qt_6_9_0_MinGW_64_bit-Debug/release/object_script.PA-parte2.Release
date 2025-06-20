@@ -1,0 +1,12 @@
+release/CutBox.o
+release/CutEllipsoid.o
+release/CutSphere.o
+release/CutVoxel.o
+release/FiguraGeometrica.o
+release/Interpretador.o
+release/PutBox.o
+release/PutEllipsoid.o
+release/PutSphere.o
+release/PutVoxel.o
+release/Sculptor.o
+release/main.o
